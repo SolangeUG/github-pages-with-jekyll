@@ -1,3 +1,8 @@
+---
+title: "Julie Foucher"
+date: 2018-05-01
+---
+
 [**Julie Foucher**][1] (born December 26, 1988) is an American [CrossFit][2] athlete and [medical resident][3]. 
 She has competed in the CrossFit Games four times, and has historically been one of the most successful women in the sport. 
 Across her four Games appearances, Foucher has never finished outside the top 5. 
